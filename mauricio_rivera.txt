@@ -1,2 +1,4 @@
 Nombre: Mauricio Rivera
 Curso:DAW
+Sistema operativo: Windows_NT
+Fecha de practica: 11/26/2026 19:43:56
